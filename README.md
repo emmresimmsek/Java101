@@ -7,6 +7,13 @@ Projeyi yerel makinenize klonlayarak veya dosyaları indirerek inceleyebilirsini
 
 
 
+Tabii, işte Java hakkında kısa bir açıklama metni:
+Java, nesne tabanlı bir programlama dilidir ve genellikle platform bağımsızlığı ile bilinir. Sun Microsystems tarafından geliştirilmiş olan Java, basit, güvenli ve taşınabilir olmasıyla öne çıkar.
+
+
+
+
+
 
 ![Mockup](https://www.resimupload.org/images/2023/12/26/2207516fe89bb16b9.jpg)
 
