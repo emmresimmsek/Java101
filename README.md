@@ -6,9 +6,8 @@ Bu depo, **Java** ile ilgili patika.dev sitesinde hazırladığım ödevleri iç
 Projeyi yerel makinenize klonlayarak veya dosyaları indirerek inceleyebilirsiniz.
 
 
-
-Tabii, işte Java hakkında kısa bir açıklama metni:
 Java, nesne tabanlı bir programlama dilidir ve genellikle platform bağımsızlığı ile bilinir. Sun Microsystems tarafından geliştirilmiş olan Java, basit, güvenli ve taşınabilir olmasıyla öne çıkar.
+
 
 
 
