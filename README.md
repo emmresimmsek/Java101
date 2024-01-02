@@ -14,7 +14,7 @@ Java, nesne tabanlı bir programlama dilidir ve genellikle platform bağımsızl
 
 
 
-![Mockup](https://www.resimupload.org/images/2023/12/26/28eb77eb1faed4122.jpg)
+![Mockup](https://www.resimupload.org/images/2024/01/02/1.jpg)
 
 
 
