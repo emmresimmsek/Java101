@@ -19,6 +19,7 @@ public class DikUcgendeHipotenusBulanProgram {
         double hipotenus = Math.sqrt(result);
 
         System.out.println("Hipotenüs: " + hipotenus);
+        scanner.close();
 
         //
 
