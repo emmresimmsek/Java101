@@ -1,5 +1,5 @@
 # Java 101 (Patika.dev Ödevleri)
-![Banner](https://www.resimupload.org/images/2023/12/26/160c32c2c21ee8ae0.jpg)
+![Banner](https://www.resimupload.org/images/2024/01/02/2.jpg)
 
 Merhabalar,      
 Bu depo, **Java** ile ilgili patika.dev isimli eğitim sitesinde hazırladığım ödevleri içermektedir.   
@@ -14,7 +14,7 @@ Java, nesne tabanlı bir programlama dilidir ve genellikle platform bağımsızl
 
 
 
-![Mockup](https://www.resimupload.org/images/2023/12/26/28eb77eb1faed4122.jpg)
+![Mockup](https://www.resimupload.org/images/2024/01/02/1.jpg)
 
 
 
