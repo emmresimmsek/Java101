@@ -17,7 +17,7 @@ public class ArtikYilHesaplama {
         if ( year % 4 == 0  ){
 
 
-            System.out.println("Artık Yıldır. Bu yılda 29 Şubat vardır.");
+            System.out.println("Artık Yıldır. Bu yılda  29 Şubat vardır.");
         } else {
             System.out.println("Artık Yıl Değildir.");
         }
